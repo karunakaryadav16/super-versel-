@@ -1,0 +1,54 @@
+.con{
+    height:auto;
+    width:70%;
+    border:solid 3px silver;
+    border-radius: 10px;
+    margin-top: 40px;
+    padding:50px;
+
+    font-size: 20px;
+}
+
+.qscon{
+   
+    height:auto;
+    width:500px;
+    border:solid 3px silver;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.save{
+    text-align: end;
+    margin-left: 373px;
+    background-color: green;
+    color:white;
+    padding-left:4px;
+}
+
+.addq{
+
+ background-color:yellow;
+color:red;
+border-color: silver;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
